@@ -4,5 +4,6 @@
  */
 
 exports.hello = function (name) {
+  "Hello, world!"
   your_answer
 }
